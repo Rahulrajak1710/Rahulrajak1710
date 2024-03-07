@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **rahulrajak1710@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1McXTic_uS8vXIAwQF17sfWEKnEIIZbDr/view](https://drive.google.com/file/d/1McXTic_uS8vXIAwQF17sfWEKnEIIZbDr/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Gp1LdCVLs6kvaaZzGhyotqZCeJepvAK3/view?usp=drive_link](https://drive.google.com/file/d/1Gp1LdCVLs6kvaaZzGhyotqZCeJepvAK3/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
