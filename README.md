@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://thumbs.dreamstime.com/z/web-software-developer-banner-seacrh-bar-thin-line-objects-work-tools-desk-59453071.jpg?w=992" alt="banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Rahul%20Rajak&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20AWS%20%C2%B7%20Kubernetes%20%C2%B7%20Terraform%20%7C%20Cloud%20Security&descSize=18&descAlignY=58&descColor=a8d8ea" alt="Rahul - DevOps Engineer" width="100%"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Rahul Rajak</h1>
+<h1 align="center">Hi 👋, I'm Rahul </h1>
 
 <h3 align="center">DevOps Engineer · AWS · Kubernetes · Terraform · CI/CD · Cloud Security</h3>
 
