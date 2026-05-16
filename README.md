@@ -74,23 +74,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulrajak1710&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulrajak1710&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulrajak1710" alt="GitHub Streak" />
-</p>
-
----
 
 ### 🤝 Let's Connect
 
