@@ -36,7 +36,7 @@
 - 🛠️ Modernized CI/CD pipelines using **Helm + Jenkins** for production deployments
 - 🎓 B.Tech in Computer Science — UIET, Kurukshetra University
 - 🌐 Portfolio: [rahulrajak1710.github.io/RahulPortfolio](https://rahulrajak1710.github.io/RahulPortfolio/)
-- 📄 Resume: [View Here](https://drive.google.com/file/d/1Ik5fkGZ_n8ZTbsKoZXqAQbCc7ZzSYBZz/view)
+- 📄 Resume: [View Here](https://drive.google.com/file/d/1SeRQgSXuqCeKsEDtSAy_zbBL8id6AoKz/view?usp=sharing)
 - 💬 Ask me about **DevOps, AWS, Kubernetes, Terraform, Cloud Security**
 - 📫 Reach me at **rahulrajak1710@gmail.com**
 
