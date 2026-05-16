@@ -1,5 +1,5 @@
 [![MasterHead](https://thumbs.dreamstime.com/z/web-software-developer-banner-seacrh-bar-thin-line-objects-work-tools-desk-59453071.jpg?w=992)]
-<h1 align="center">Hi 👋, I'm Rahul Rajak</h1>
+<h1 align="center">Hi 👋, I'm Rahul </h1>
 <h3 align="center">Software Engineer skilled in DevOps, adept at streamlining development processes, bridging gaps, and driving continuous improvement in software projects.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
