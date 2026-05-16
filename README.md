@@ -21,7 +21,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rahulrajak1710&label=Profile%20views&color=0e75b6&style=flat" alt="rahulrajak1710" />
-  <a href="https://linkedin.com/in/rahul-rajak"><img src="https://img.shields.io/badge/LinkedIn-rahul-790b96193&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/rahul-790b96193/"><img src="https://img.shields.io/badge/LinkedIn-rahul-790b96193&logo=linkedin" alt="LinkedIn"/></a>
   <a href="mailto:rahulrajak1710@gmail.com"><img src="https://img.shields.io/badge/Email-rahulrajak1710@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
